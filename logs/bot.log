@@ -1,0 +1,7 @@
+2025-07-09 12:08:35,358 — INFO — Bot initialized with testnet
+2025-07-09 12:09:25,127 — INFO — Bot initialized with testnet
+2025-07-09 12:09:52,652 — ERROR — Error placing market order: APIError(code=None): None
+2025-07-09 12:13:45,383 — INFO — Bot initialized with testnet
+2025-07-09 12:14:35,580 — ERROR — Error placing market order: APIError(code=None): None
+2025-07-09 12:15:44,291 — INFO — Bot initialized with testnet
+2025-07-09 12:16:04,989 — ERROR — Error placing market order: APIError(code=None): None
